@@ -819,3 +819,18 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [15:19:54 | 24-03-2025] 🚨 Failed to start node for 0x59960893F377Dbd50d0adF387B224D76F8bF2F05: [object Object]
+[19:29:37 | 24-03-2025] Wallet Address: 0x59960893F377Dbd50d0adF387B224D76F8bF2F05
+[19:29:37 | 24-03-2025] Node Points: 1006245
+[19:29:37 | 24-03-2025] Last Claim Point: 23/03/2025 08:16:50
+[19:29:38 | 24-03-2025] ✅ Points claimed for 0x59960893F377Dbd50d0adF387B224D76F8bF2F05
+[19:29:39 | 24-03-2025] 🚨 Failed to start node for 0x59960893F377Dbd50d0adF387B224D76F8bF2F05: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x59960893F377Dbd50d0adF387B224D76F8bF2F05/start</pre>
+</body>
+</html>
+
